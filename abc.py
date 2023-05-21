@@ -1,3 +1,1 @@
-s='spam, is, equal, to'
-s=s.split(',')
-print(s)
+print('%+5d' %(42))
