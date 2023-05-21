@@ -1,2 +1,3 @@
 s='spam'
-print(s.find('pa'))
+s.replace('pa', 'abcd')
+print(s)
