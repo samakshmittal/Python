@@ -1,1 +1,2 @@
-print('%+5d' %(42))
+s='a'
+print(dir(s))
